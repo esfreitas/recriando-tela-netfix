@@ -89,3 +89,17 @@
     .botao i{
         margin-right: 8px;
     }
+
+    .conteiner{
+        margin-left: 30px;
+    }
+
+    .filme-principal .conteiner{
+        width: 70%;
+    }
+
+    .box-film{
+        height: 10%0;
+        width: 100%;
+        display: block;
+    }
